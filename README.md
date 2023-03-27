@@ -1,2 +1,1 @@
-# henry-tarea
-este es un repositorio nuevo en el curso  
+este repositorio es un entrenamiento de como crear un diretorio en github 
